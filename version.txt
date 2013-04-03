@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 master
+=======
+dev
+>>>>>>> origin/development
