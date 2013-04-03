@@ -1,5 +1,4 @@
-﻿Ext.require(["demo.view.MapDetails"]);
-Ext.define('demo.view.Map', {
+﻿Ext.define('demo.view.Map', {
     extend: 'Ext.Map',
     id: "mapview",
     xtype: 'map',
